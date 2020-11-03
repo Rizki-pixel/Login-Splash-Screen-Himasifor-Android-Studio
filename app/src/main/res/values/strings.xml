@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Himasifor</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_register">Sign in</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="welcome_login_below">WELCOME, LOGIN BELOW</string>
+    <string name="Himasifor">Himpunan Mahasiswa Sistem Informasi</string>
+    <string name="got_it">Got It</string>
+    <string name="selamat_datang_di_himpunan_mahasiswa_sistem_informasi">Selamat Datang di Himpunan Mahasiswa Sistem Informasi</string>
+    <string name="merupakan_aplikasi_ujicoba_urang_sunda_dalam_memenuhi_salah_satu_tugas_pemograman_mobile_hhee">Merupakan Aplikasi Himpunan Mahasiswa Sistem Informasi IPI garut Yang berada di Kota Garut </string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
